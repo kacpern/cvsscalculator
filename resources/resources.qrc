@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images">
+    <file alias="cvss-web.png">images/cvss-web.png</file>
+    <file alias="logo-block.png">images/logo-block.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file alias="application-icon.png">icons/application-icon.png</file>
+    <file alias="application-exit.png">icons/application-exit.png</file>
+    <file alias="form-clear.png">icons/form-clear.png</file>
+    <file alias="help-about.png">icons/help-about.png</file>
+    <file alias="wizard.png">icons/wizard.png</file>
+  </qresource>
+  <qresource prefix="translations">
+    <file alias="en_GB.qm">../translations/en_GB.qm</file>
+  </qresource>
+</RCC>
