@@ -1,4 +1,4 @@
-# cvsscalculator
+# CVSS Calculator
 
 Common Vulnerability Scoring System (CVSS) is a vulnerability scoring system designed to provide an open and standardized method for rating IT vulnerabilities.
 
